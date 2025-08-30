@@ -1,0 +1,7 @@
+{
+  "mastodon_rss": "https://mastodon.social/@yourusername.rss",
+  "api_key": "YOUR_API_KEY",
+  "api_secret": "YOUR_API_SECRET",
+  "access_token": "YOUR_ACCESS_TOKEN",
+  "access_secret": "YOUR_ACCESS_SECRET"
+}
