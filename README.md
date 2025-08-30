@@ -7,26 +7,26 @@
 
 <!-- Dynamic stats and info badges -->
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://python.org)
-[![Version](https://img.shields.io/github/v/release/yourusername/masto2x?style=for-the-badge&logo=github&color=6366F1)](https://github.com/yourusername/masto2x/releases)
+[![Version](https://img.shields.io/github/v/release/mirsadra/masto2x?style=for-the-badge&logo=github&color=6366F1)](https://github.com/mirsadra/masto2x/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-success?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/yourusername/masto2x?style=for-the-badge&logo=github&color=gold)](https://github.com/yourusername/masto2x/stargazers)
+[![Stars](https://img.shields.io/github/stars/mirsadra/masto2x?style=for-the-badge&logo=github&color=gold)](https://github.com/mirsadra/masto2x/stargazers)
 
 <!-- Interactive social follow badges -->
 [![Follow on Mastodon](https://img.shields.io/badge/Follow-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@mirsadra)
 [![Follow on X](https://img.shields.io/badge/Follow-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mirsadraa)
 
 <!-- Dynamic activity and health badges -->
-[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/masto2x?style=for-the-badge&logo=github&color=FF6B6B)](https://github.com/yourusername/masto2x/commits)
-[![Downloads](https://img.shields.io/github/downloads/yourusername/masto2x/total?style=for-the-badge&logo=download&color=4ECDC4)](https://github.com/yourusername/masto2x/releases)
-[![Issues](https://img.shields.io/github/issues/yourusername/masto2x?style=for-the-badge&logo=github&color=FFA07A)](https://github.com/yourusername/masto2x/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/masto2x?style=for-the-badge&logo=github&color=98D8C8)](https://github.com/yourusername/masto2x/pulls)
+[![GitHub last commit](https://img.shields.io/github/last-commit/mirsadra/masto2x?style=for-the-badge&logo=github&color=FF6B6B)](https://github.com/mirsadra/masto2x/commits)
+[![Downloads](https://img.shields.io/github/downloads/mirsadra/masto2x/total?style=for-the-badge&logo=download&color=4ECDC4)](https://github.com/mirsadra/masto2x/releases)
+[![Issues](https://img.shields.io/github/issues/mirsadra/masto2x?style=for-the-badge&logo=github&color=FFA07A)](https://github.com/mirsadra/masto2x/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/mirsadra/masto2x?style=for-the-badge&logo=github&color=98D8C8)](https://github.com/mirsadra/masto2x/pulls)
 
 <!-- Code quality and CI badges -->
-[![CodeFactor](https://img.shields.io/codefactor/grade/github/yourusername/masto2x?style=for-the-badge&logo=codefactor&color=A8E6CF)](https://www.codefactor.io/repository/github/yourusername/masto2x)
-[![CI Status](https://img.shields.io/github/actions/workflow/status/yourusername/masto2x/ci.yml?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/yourusername/masto2x/actions)
+[![CodeFactor](https://img.shields.io/codefactor/grade/github/mirsadra/masto2x?style=for-the-badge&logo=codefactor&color=A8E6CF)](https://www.codefactor.io/repository/github/mirsadra/masto2x)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/mirsadra/masto2x/ci.yml?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/mirsadra/masto2x/actions)
 
 <!-- Beautiful platform support badges -->
-[![Supported Platforms](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/yourusername/masto2x)
+[![Supported Platforms](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/mirsadra/masto2x)
 [![Python Versions](https://img.shields.io/pypi/pyversions/masto2x?style=for-the-badge&logo=python&logoColor=white)](https://pypi.org/project/masto2x/)
 
 <!-- Animated feature highlights -->
