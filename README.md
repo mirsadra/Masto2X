@@ -27,7 +27,6 @@
 
 <!-- Beautiful platform support badges -->
 [![Supported Platforms](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/mirsadra/masto2x)
-[![Python Versions](https://img.shields.io/pypi/pyversions/masto2x?style=for-the-badge&logo=python&logoColor=white)](https://pypi.org/project/masto2x/)
 
 <!-- Animated feature highlights -->
 ![Features](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=500&color=9333EA&background=FFFFFF00&center=true&vCenter=true&width=600&height=50&lines=✨+Auto+Cross-Posting;🔄+Real-time+Sync;🛡️+Privacy+First;⚡+Lightning+Fast)
